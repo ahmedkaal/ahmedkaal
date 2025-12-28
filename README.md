@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi There I'm AHMEDKAAL👋
+___
+>  I'm a software developer with a strong passion for creating visually appealing and user-friendly websites. <br>
+
+📚 I’m currently learning about Frontend and Backend technologies. <br>
+🎯 Future Goals: Learn more web technologies - Create awesome websites.
 
 <!--
 **ahmedkaal/ahmedkaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
